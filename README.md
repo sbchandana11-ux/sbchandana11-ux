@@ -1,5 +1,5 @@
-#                Hey , I'm Chandana S B
-I'm an AI Software Engineering Student
+#          `      Hey , I'm Chandana S B`
+`I'm an AI Software Engineering Student`
 
 
 ## 🌐 Socials:
