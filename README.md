@@ -21,7 +21,7 @@
 
 💬 Ask me about **Java, AI/ML, Backend Development & Project Building**  
 
-📫 Reach me at **chandansgowda167@gmail.com**  
+📫 Reach me at **sb.chandana11@gmail.com**  
 
 ⭐ Fun fact: I love turning creative ideas into real-world AI projects.
 
